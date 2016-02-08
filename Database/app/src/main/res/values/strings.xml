@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">HelloWebWord</string>
+    <string name="app_name">HelloWebWord</string>
+    <string name="address">First Name</string>
+    <string name="get_text">Get Data</string>
+    <string name="default_content"></string>
+    <string name="default_output">OUTPUT : </string>
+
+    <string name="Name">Name</string>
+    <string name="Email">E-mail</string>
+    <string name="LoginName">Login</string>
+    <string name="Password">Password</string>
+
+</resources>
+
