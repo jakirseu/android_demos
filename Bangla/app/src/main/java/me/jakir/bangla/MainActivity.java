@@ -7,16 +7,15 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView hello;
+    TextView sonar_bangla;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        hello = (TextView) findViewById(R.id.hello);
-
+        sonar_bangla = (TextView) findViewById(R.id.sonar_bangla);
         Typeface font= Typeface.createFromAsset(getAssets(), "kalpurush.ttf");
-        hello.setTypeface(font);
+        sonar_bangla.setTypeface(font);
     }
 }

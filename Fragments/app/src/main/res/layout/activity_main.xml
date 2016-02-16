@@ -7,12 +7,10 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="me.jakir.bangla.MainActivity">
+    tools:context="me.jakir.fragments.MainActivity">
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/sonar_bangla"
-        android:textSize="18dp"
-        android:id="@+id/sonar_bangla" />
+        android:text="Hello World!" />
 </RelativeLayout>

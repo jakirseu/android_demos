@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">List View to Activity</string>
+
+    <string-array name="billionaires">
+        <item>Bill Gates</item>
+        <item>Carlos Slim Helu</item>
+        <item>Warren Buffett</item>
+        <item>Amancio Ortega</item>
+        <item>Larry Ellison</item>
+        <item>Charles Koch</item>
+        <item>David Koch</item>
+        <item>Christy Walton</item>
+        <item>Jim Walton</item>
+        <item>Liliane Bettencourt</item>
+    </string-array>
+
+</resources>
