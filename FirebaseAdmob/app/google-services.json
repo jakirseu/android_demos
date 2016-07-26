@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "499389345890",
+    "firebase_url": "https://binarytuts.firebaseio.com",
+    "project_id": "binarytuts",
+    "storage_bucket": "binarytuts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499389345890:android:1b48ff9699b9ec77",
+        "android_client_info": {
+          "package_name": "com.binarytuts.digitalcommunication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499389345890-l9dkefffnekpo6nb1r3fis94875jhv7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdUXxz33xz2BjtDlc_cztS1WW_8J2lFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499389345890:android:32fcc64c88b304ff",
+        "android_client_info": {
+          "package_name": "me.jakir.firebaseadmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499389345890-l9dkefffnekpo6nb1r3fis94875jhv7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtdUXxz33xz2BjtDlc_cztS1WW_8J2lFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
