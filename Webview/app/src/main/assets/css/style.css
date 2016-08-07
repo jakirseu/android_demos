@@ -1,0 +1,17 @@
+img {
+margin:5px auto;
+max-width:100%;
+
+}
+
+.center-button{
+  margin: 0 auto;
+}
+td {
+    text-transform: capitalize;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 5px;
+}
+td:first-child {
+	font-weight:bold;
+}
